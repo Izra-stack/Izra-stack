@@ -68,11 +68,7 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
   <img src="https://skillicons.dev/icons?i=git" height="54" />
 </p>
 
-<br/><br/>
-
-<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izra-stack&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=ff6b9d&text_color=f8f8f2&bg_color=1a1b27"/>
-
-</div>
+<br/>
 
 ---
 
