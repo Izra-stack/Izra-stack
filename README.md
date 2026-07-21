@@ -62,14 +62,6 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
 
 <br/>
 
-### DevOps & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" height="54" />
-</p>
-
-<br/>
-
 ### Tools
 
 <p>
