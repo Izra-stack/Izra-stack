@@ -69,19 +69,7 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
 </p>
 
 <br/>
-
 ---
-
-## Contact Me
-
-<p align="center">
-  <a href="mailto:xerixces239@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Izra-stack">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 
 ---
