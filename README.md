@@ -69,4 +69,3 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
 </p>
 
 <br/>
----
