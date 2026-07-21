@@ -70,10 +70,3 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
 
 <br/>
 ---
-
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=120&section=footer"/>
-</p>
