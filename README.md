@@ -23,8 +23,8 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
 
 ### Programming Languages
 
-### Languages
 <p>
+  <h3 align="center">Languages</h3>
   <img src="https://skillicons.dev/icons?i=js" height="48" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" height="48" />
@@ -35,34 +35,37 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
 </p>
 <br/>
 
-### Frontend
+
 <p>
+  <h3 align="center">Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react" height="54" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" height="54" />
 </p>
 <br/>
 
-### Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter" height="54" />
-</p>
-<br/>
 
-### Backend
 <p>
+  <h3 align="center">Backend</h3>
   <img src="https://skillicons.dev/icons?i=laravel" height="54" />
 </p>
 <br/>
 
-### Database
 <p>
+  <h3 align="center">Database</h3>
   <img src="https://skillicons.dev/icons?i=mysql" height="54" />
 </p>
 <br/>
 
-### Tools
 <p>
+<h3 align="center">DevOps</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="DevOps" width="40"/>
+
+</p>
+
+<p>
+  <h3 align="center">Tools</h3>
   <img src="https://skillicons.dev/icons?i=git" height="54" />
 </p>
 <br/>
