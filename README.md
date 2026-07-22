@@ -19,32 +19,50 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
 
 ## Languages & Tools
 
+<div align="center">
+
+### Programming Languages
+
 ### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,java,php" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="48" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" height="48" />
 </p>
+<br/>
 
 ### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="54" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="54" />
 </p>
+<br/>
 
 ### Mobile Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" height="54" />
 </p>
+<br/>
 
 ### Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel" />
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel" height="54" />
 </p>
+<br/>
 
 ### Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="54" />
 </p>
+<br/>
 
 ### Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="54" />
 </p>
+<br/>
