@@ -24,6 +24,8 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
 
 ### Programming Languages
 
+### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=js" height="48" />
   &nbsp;&nbsp;
@@ -42,6 +44,14 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
   <img src="https://skillicons.dev/icons?i=react" height="54" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" height="54" />
+</p>
+
+<br/>
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" height="54" />
 </p>
 
 <br/>
