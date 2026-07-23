@@ -5,7 +5,6 @@ Currently pursuing a Bachelor of Science in Information Technology, specializing
 I’m passionate about exploring new ideas, challenging myself, and pushing beyond my limits to become better every day.
 
 ---
-
 ## My Focus Areas
 
 - Web Development
@@ -16,7 +15,6 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
 - Data Analysis
 
 ---
-
 ## Languages & Tools
 
 <div align="center">
