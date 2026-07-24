@@ -1,5 +1,4 @@
 # Hi I'm Izra
-
 ## About Me
 Currently pursuing a Bachelor of Science in Information Technology, specializing in Software Development.
 I’m passionate about exploring new ideas, challenging myself, and pushing beyond my limits to become better every day.
