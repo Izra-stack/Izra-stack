@@ -58,6 +58,7 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="DevOps" width="40"/>
 
 </p>
+
 <br/>
 
 <p>
