@@ -53,15 +53,6 @@ I’m passionate about exploring new ideas, challenging myself, and pushing beyo
 <br/>
 
 <p>
-<h3 align="center">DevOps</h3>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" alt="DevOps" width="40"/>
-
-</p>
-
-<br/>
-
-<p>
   <h3 align="center">Tools</h3>
   <img src="https://skillicons.dev/icons?i=git" height="54" />
 </p>
