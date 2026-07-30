@@ -1,6 +1,6 @@
 # Hi, I'm Izra
 
-**Bachelor of Science in Information Technology**
+**Bachelor of Science in Information Technology 3rd Year Student**
 **Specialization:** Software Development
 
 I'm passionate about building software, exploring new technologies, and continuously improving my skills. I enjoy turning ideas into real applications while learning modern development practices and challenging myself to grow every day.
