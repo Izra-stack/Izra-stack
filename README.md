@@ -1,58 +1,72 @@
-# Hi I'm Izra
-## About Me
-Currently pursuing a Bachelor of Science in Information Technology, specializing in Software Development.
-I’m passionate about exploring new ideas, challenging myself, and pushing beyond my limits to become better every day.
----
-## My Focus Areas
+# Hi, I'm Izra
 
-- Web Development
-- Mobile Apps
-- UI/UX Design
-- Database Management
-- API Integration
-- Data Analysis
+**Bachelor of Science in Information Technology**
+**Specialization:** Software Development
+
+I'm passionate about building software, exploring new technologies, and continuously improving my skills. I enjoy turning ideas into real applications while learning modern development practices and challenging myself to grow every day.
 
 ---
-## Languages & Tools
+
+## Focus Areas
 
 <div align="center">
 
-### Programming Languages
+|   Development   |      Design     |         Data        |
+| :-------------: | :-------------: | :-----------------: |
+| Web Development |   UI/UX Design  | Database Management |
+|   Mobile Apps   | API Integration |    Data Analysis    |
 
-<p>
-  <h3 align="center">Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="48" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" height="48" />
-</p>
-<br/>
+</div>
 
-<p>
-  <h3 align="center">Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react" height="54" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="54" />
-</p>
-<br/>
+---
 
-<p>
-  <h3 align="center">Backend</h3>
-  <img src="https://skillicons.dev/icons?i=laravel" height="54" />
-</p>
-<br/>
+## Tech Stack
 
-<p>
-  <h3 align="center">Database</h3>
-  <img src="https://skillicons.dev/icons?i=mysql" height="54" />
-</p>
-<br/>
+<div align="center">
 
-<p>
-  <h3 align="center">Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git" height="54" />
-</p>
-<br/>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,python,java,php" />
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=laravel" />
+
+<br><br>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git" />
+
+</div>
+
+---
+
+## Currently Learning
+
+* Cybersecurity
+* Secure Web Development
+* REST API Design
+* Modern React Development
+
+---
+
+<div align="center">
+
+*"Learning never stops. Every project is another step toward becoming a better developer."*
+
+</div>
