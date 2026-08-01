@@ -10,7 +10,6 @@ I'm passionate about building software, exploring new technologies, and continuo
 
 - Web Application Development
 - Mobile Application Development
-- RESTful API
 - Data Structures & Algorithms
 - Database Design & Data Management
 <div align="center">
@@ -58,9 +57,7 @@ I'm passionate about building software, exploring new technologies, and continuo
 ## Currently Learning
 
 * Cybersecurity
-* Secure Web Development
-* REST API Design
-* Modern React Development
+* Docker & Postman
 
 ---
 
