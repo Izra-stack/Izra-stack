@@ -1,4 +1,4 @@
-# Hi, I'm Izra
+# Hi, I'm Izra Full-stack Dev
 
 **Bachelor of Science in Information Technology 3rd Year Student**
 **Specialization:** Software Development
@@ -6,15 +6,14 @@
 I'm passionate about building software, exploring new technologies, and continuously improving my skills. I enjoy turning ideas into real applications while learning modern development practices and challenging myself to grow every day.
 
 ---
-
 ## Focus Areas
 
 <div align="center">
-
-|   Development   |      Design     |         Data        |
-| :-------------: | :-------------: | :-----------------: |
-| Web Development |   UI/UX Design  | Database Management |
-|   Mobile Apps   | API Integration |    Data Analysis    |
+- Web Application Development
+- Mobile Application Development
+- RESTful API
+- Data Structures & Algorithms
+- Database Design & Data Management
 
 </div>
 
