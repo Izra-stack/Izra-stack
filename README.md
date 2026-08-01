@@ -10,6 +10,7 @@ I'm passionate about building software, exploring new technologies, and continuo
 
 - Web Application Development
 - Mobile Application Development
+- RESTful API
 - Data Structures & Algorithms
 - Database Design & Data Management
 <div align="center">
