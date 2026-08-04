@@ -59,8 +59,9 @@ I'm passionate about building software, exploring new technologies, and continuo
 ## Currently Learning
 
 * Cybersecurity
-* Docker & Postman
-
+* Docker
+* Postman
+* Typescript
 ---
 
 <div align="center">
