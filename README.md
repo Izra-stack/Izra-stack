@@ -10,7 +10,6 @@ I'm passionate about building software, exploring new technologies, and continuo
 
 - Web Application Development
 - Mobile Application Development
-- RESTful API
 - UI/UX Designer
 - Data Structures & Algorithms
 - Database Design & Data Management
@@ -59,9 +58,7 @@ I'm passionate about building software, exploring new technologies, and continuo
 ## Currently Learning
 
 * Cybersecurity
-* Docker
-* Postman
-* Typescript
+* Networking 
 ---
 
 <div align="center">
