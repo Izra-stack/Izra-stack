@@ -47,12 +47,6 @@ I'm passionate about building software, exploring new technologies, and continuo
 
 <br><br>
 
-### API & Testing
-
-<img src="https://skillicons.dev/icons?i=postman" />
-
-<br><br>
-
 ### Mobile
 
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
@@ -87,11 +81,11 @@ JWT, OAuth, Laravel Sanctum
 
 ### DevOps
 
-<img src="https://skillicons.dev/icons?i=githubactions,linux" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
 
 ### Testing
 
-<img src="https://skillicons.dev/icons?i=jest" />
+<img src="https://skillicons.dev/icons?i=jest,postman" />
 
 ## Currently Learning
 
