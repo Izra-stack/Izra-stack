@@ -96,7 +96,9 @@ JWT, OAuth, Laravel Sanctum
 ## Currently Learning
 
 * Cybersecurity
-* Networking 
+* Networking
+* Firebase
+* Docker
 ---
 
 <div align="center">
