@@ -11,7 +11,7 @@ I'm passionate about building software, exploring new technologies, and continuo
 - Web Application Development
 - Mobile Application Development
 - UI/UX Designer
-- Data Structures & Algorithms
+- Data Structures
 - Database Design & Data Management
 <div align="center">
 
@@ -61,31 +61,11 @@ I'm passionate about building software, exploring new technologies, and continuo
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
 ---
-
-### State Management
-
-<img src="https://skillicons.dev/icons?i=redux" />
-
-### Authentication
-
-JWT, OAuth, Laravel Sanctum
-
-### Cloud
-
-<img src="https://skillicons.dev/icons?i=supabase,vercel,netlify" />
-
-### DevOps
-
-<img src="https://skillicons.dev/icons?i=githubactions" />
-
-### Testing
-
-<img src="https://skillicons.dev/icons?i=jest,postman" />
 
 ## Currently Learning
 
@@ -94,7 +74,6 @@ JWT, OAuth, Laravel Sanctum
 * Firebase
 * Docker
 ---
-
 <div align="center">
 
 *"Learning never stops. Every project is another step toward becoming a better developer."*
