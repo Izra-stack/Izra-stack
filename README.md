@@ -3,7 +3,7 @@
 **Bachelor of Science in Information Technology 3rd Year Student**
 **Specialization:** Software Development
 
-I'm passionate about building software, exploring new technologies, and continuously improving my skills. I enjoy turning ideas into real applications while learning modern development practices and challenging myself to grow every day.
+I’m passionate about building software, exploring new technologies, and continuously improving my skills. I enjoy turning ideas into real-world applications that solve problems and make a positive impact. I’m always eager to learn, take on new challenges, and create meaningful solutions through technology.
 
 ---
 ## Focus Areas
