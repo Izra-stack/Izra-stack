@@ -1,4 +1,4 @@
-# Hi, I'm Izra Full-stack Dev
+# Hi, I'm Izra
 
 **Bachelor of Science in Information Technology 3rd Year Student**
 **Specialization:** Software Development
@@ -66,7 +66,6 @@ I'm passionate about building software, exploring new technologies, and continuo
 </div>
 
 ---
-
 ## Currently Learning
 
 * Cybersecurity
