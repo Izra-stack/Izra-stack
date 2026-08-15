@@ -73,8 +73,4 @@ I’m passionate about building software, exploring new technologies, and contin
 * Firebase
 * Docker
 ---
-<div align="center">
-
-*"Learning never stops. Every project is another step toward becoming a better developer."*
-
 </div>
