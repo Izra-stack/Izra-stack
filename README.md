@@ -52,17 +52,6 @@ I’m passionate about building software, exploring new technologies, and contin
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
 <br><br>
-
-### DevOps & Deployment
-
-<img src="https://skillicons.dev/icons?i=docker" />
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
 </div>
 
 ---
