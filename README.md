@@ -59,7 +59,5 @@ I’m passionate about building software, exploring new technologies, and contin
 
 * Cybersecurity
 * Networking
-* Firebase
-* Docker
 ---
 </div>
