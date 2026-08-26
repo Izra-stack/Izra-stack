@@ -27,31 +27,26 @@ I’m passionate about building software, exploring new technologies, and contin
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java" />
 
-<br><br>
-
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
-
-<br><br>
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 
-<br><br>
-
 ### Database
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,postgres" />
 
-<br><br>
 
 ### Mobile
 
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-<br><br>
+</div>
+
+
 </div>
 
 ---
