@@ -22,28 +22,10 @@ I’m passionate about building software, exploring new technologies, and contin
 ## Tech Stack
 
 <div align="center">
-
-### Languages
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java" />
-
-### Frontend
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
-
-### Backend
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,postgres" />
-
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,supabase,flutter,swift,dart"/>
 </div>
 
 
