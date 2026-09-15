@@ -26,6 +26,7 @@ I’m passionate about building software, exploring new technologies, and contin
 <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,supabase,flutter,swift,dart"/>
+  
 </div>
 
 
