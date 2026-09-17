@@ -22,10 +22,10 @@ I’m passionate about building software, exploring new technologies, and contin
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,flutter,php,python,java" />
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite,supabase,flutter,swift,dart"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,swift,dart" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,sqlite"/>
   
 </div>
 
