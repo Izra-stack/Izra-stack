@@ -13,6 +13,7 @@ I’m passionate about building software, exploring new technologies, and contin
 - UI/UX Designer
 - Data Structures
 - Database Design & Data Management
+- 
 <div align="center">
 
 </div>
